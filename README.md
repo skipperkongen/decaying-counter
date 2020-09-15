@@ -2,6 +2,10 @@
 
 The value of this counter decays over time if you don't increment it.
 
+![](decaying-counter.png)
+
+## How to use it
+
 ```python
 import numpy as np
 import pandas as pd
