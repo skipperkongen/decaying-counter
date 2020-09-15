@@ -1,8 +1,8 @@
-# decaying-counter
+# Decaying counter
 
 The value of this counter decays over time if you don't increment it.
 
-![](decaying-counter.png)
+![](example.png)
 
 ## How to use it
 
